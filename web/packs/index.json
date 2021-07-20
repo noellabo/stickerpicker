@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "ribbonstick.json"
+  ],
+  "homeserver_url": "https://matrix.fedibird.com/"
+}
